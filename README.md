@@ -14,3 +14,6 @@ PCB for connecting basic (Waveshare, Good Display etc) e-paper displays on 24-pi
 |D1, D2, D3|D_Schottky|3|C169540|
 |Q1|IRLML2060|1|C469327|
 |J1|FH34SRJ-24S-0.5SH(50)|1|C324726|
+
+<img src="/images/20221008_122153.jpg" width="100%" /> 
+<img src="/images/20220929_164140.jpg" width="100%" /> 
